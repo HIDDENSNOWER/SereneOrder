@@ -1,0 +1,13 @@
+name = "SereneOrder"
+author = "HIDDENSNOWER"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1dbc502f5c43f6069f185ba89d0450c7fa694f79850b70c2e358790d876d75a3"
+
+[versions]
+fabric = "0.16.10"
+minecraft = "1.21.1"
