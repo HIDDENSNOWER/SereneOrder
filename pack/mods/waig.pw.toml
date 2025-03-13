@@ -1,0 +1,13 @@
+name = "WAIG: Where Am I Going"
+filename = "waig-1.1.7-mc1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IOYm9Bdm/versions/8KxmPiLX/waig-1.1.7-mc1.21.jar"
+hash-format = "sha512"
+hash = "e3bee23131f2002add923861720bc5aafa93a47632d59785a4e7bf07187d8d572a68276354949dd4c8f2c4cd55fde891dbd8f3fdf4f2405066fca9e8ea44c5f9"
+
+[update]
+[update.modrinth]
+mod-id = "IOYm9Bdm"
+version = "8KxmPiLX"

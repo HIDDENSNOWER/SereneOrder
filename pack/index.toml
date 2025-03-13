@@ -1,13 +1,68 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "17fc9c6cab5ae0ea6973440f143ad6ffa4e5d373749c80077b631dbbe4df3f3b"
+metafile = true
+
+[[files]]
+file = "mods/armor-chroma-for-fabric.pw.toml"
+hash = "9f1e98f9b778d089bbf764cfa4ba0f88f8791aef778489817878608673e29b68"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "24828835695c3e91f506dab3bdd47e54cb31412187ab0670bbb09cfeb710994c"
+metafile = true
+
+[[files]]
+file = "mods/chatpatches.pw.toml"
+hash = "384e3fc22ff7d5330be8b99fb0d59dde352f7fdf551808f16af2816b3ce09a8c"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "fe95430d433104d44c741c22d8f4d0db4678756311acacccddec49e3a39a4091"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "bb9a29a48b27e7abc0799d4393240ae2cdcf7d64341c9a63347769173f8bda2e"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "f9d89c62265e675839395d925f4162e3e93fda837ed50fbe3832f4ae9c58bebb"
+metafile = true
+
+[[files]]
+file = "mods/iceberg.pw.toml"
+hash = "858f7eef766bcdc4bb91a0cb82938375a421372c7cdc198f67d1f2254b70eeb5"
+metafile = true
+
+[[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "17a048c8381bc2992b794777020e1a3321ef6664403914e0f0c0d221e36b7891"
+metafile = true
+
+[[files]]
+file = "mods/jade-addons-fabric.pw.toml"
+hash = "67d0b675913c729a030e9f37763320f07c263250fc64f2ee304fcabd17c79a49"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "9910e35d0841d4fc95f37139379bc49238d27453a4592640896ee2faf2a66d6a"
+metafile = true
+
+[[files]]
+file = "mods/legendary-tooltips.pw.toml"
+hash = "b41a9d602a2885f672ef02b1426b4d65c17fd34229f40ab265d16e8b5ebc6894"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "d9c37a782ab3fccc43ed846018033e4cb3f487ec37cb5d67c012da4f61ca771f"
 metafile = true
 
 [[files]]
@@ -21,8 +76,28 @@ hash = "ab228cf647f11735db9cb3f81d09a2fa099346cc24b57210001eb31b770f66ec"
 metafile = true
 
 [[files]]
+file = "mods/overflowing-bars.pw.toml"
+hash = "88c410db35e0f78c6c699dbd801215407d590b49fb3bbfd0d2094b5def538b4d"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
+metafile = true
+
+[[files]]
+file = "mods/prism-lib.pw.toml"
+hash = "1d99b790a93724f4385696073e03e1437865f63551b86ef7faed493a0ba5c4c8"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "269bd7d48b9fd696330bcf7b611ee8c497c6ff34e7b5d607544397c5f4a81b86"
+metafile = true
+
+[[files]]
+file = "mods/waig.pw.toml"
+hash = "b417077bc95b1ea70db37a605584448a4bbd1a6263ce38ed1387ab7b634f09a7"
 metafile = true
 
 [[files]]
@@ -34,3 +109,12 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "1807fbe474298e2ef5bab6cf77187f01017c61166fc57c335b26d9217d8b2172"
 metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "ccffcb7778dfaab00152e8c7714c81d91c7aa06b79c747bd5af79a7916c13a20"
+metafile = true
+
+[[files]]
+file = "resourcepacks/sereneorderVer.1.0.0.zip"
+hash = "ebc9f3b472d1d0f2cab9459e6de3cd9126c5cf182a3161982d832066346f9918"
