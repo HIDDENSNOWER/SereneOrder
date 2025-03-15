@@ -11,6 +11,11 @@ hash = "9f1e98f9b778d089bbf764cfa4ba0f88f8791aef778489817878608673e29b68"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "f0c9a87afafcb1a3a7057f6870e6ca0532d6d9bc1f7cfe660af22e697a5ba238"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "24828835695c3e91f506dab3bdd47e54cb31412187ab0670bbb09cfeb710994c"
 metafile = true
@@ -18,6 +23,36 @@ metafile = true
 [[files]]
 file = "mods/chatpatches.pw.toml"
 hash = "384e3fc22ff7d5330be8b99fb0d59dde352f7fdf551808f16af2816b3ce09a8c"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
+metafile = true
+
+[[files]]
+file = "mods/emi-enchanting.pw.toml"
+hash = "1f9cd4e83ced98ba9f8ccff164ce108990e1e8f8f8205b6c549f7db26f1d8c11"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "353fee63b9660eaa2d484f1fb7e3d19178802b2ada7e7423cb1a83709d9f588c"
+metafile = true
+
+[[files]]
+file = "mods/emi-ores.pw.toml"
+hash = "ede11788835bc12a73fa0c1b532139a2dac0ba8e690451b2b887901117f2da4a"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "39225a351af4cac54235997cc04af74a358bf6a5fa1a9c78d7af47d5c74903ce"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "559829422c0b39e55c7e7224940337de1630284027d2aca0a0e214fc9ca42b92"
 metafile = true
 
 [[files]]
@@ -31,8 +66,18 @@ hash = "bb9a29a48b27e7abc0799d4393240ae2cdcf7d64341c9a63347769173f8bda2e"
 metafile = true
 
 [[files]]
+file = "mods/foodeffecttooltips.pw.toml"
+hash = "1f288dcc1b4a45b1496c471e0fac389afb2a824fa4db5220d5fec162c3f4474e"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "f9d89c62265e675839395d925f4162e3e93fda837ed50fbe3832f4ae9c58bebb"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "d4ebde657a2201455a13405b549eb06a272171eaf399ff1c9928a5df96600283"
 metafile = true
 
 [[files]]
@@ -41,8 +86,18 @@ hash = "858f7eef766bcdc4bb91a0cb82938375a421372c7cdc198f67d1f2254b70eeb5"
 metafile = true
 
 [[files]]
+file = "mods/inventory-hud-forge.pw.toml"
+hash = "22685ca556be8c523b89dc142e7a891c31d0eb8cd476cd6d3e11b6129c2bc199"
+metafile = true
+
+[[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "17a048c8381bc2992b794777020e1a3321ef6664403914e0f0c0d221e36b7891"
+metafile = true
+
+[[files]]
+file = "mods/invmove.pw.toml"
+hash = "7551e0f5aab31df987dc17a9fb31b50596be6ec6d1345bf9b9e9f1225560617c"
 metafile = true
 
 [[files]]
@@ -81,8 +136,18 @@ hash = "88c410db35e0f78c6c699dbd801215407d590b49fb3bbfd0d2094b5def538b4d"
 metafile = true
 
 [[files]]
+file = "mods/pick-up-notifier.pw.toml"
+hash = "c050874439a7613d30ff70c954e02051b1eb400103067db2bf53bd39d28679ca"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
+metafile = true
+
+[[files]]
+file = "mods/prickle.pw.toml"
+hash = "33fd0d8f99ff36c8d1c5ee622dd57df3b35e1e0e9b7411bf2c69d2ac71e9219d"
 metafile = true
 
 [[files]]
@@ -93,6 +158,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "269bd7d48b9fd696330bcf7b611ee8c497c6ff34e7b5d607544397c5f4a81b86"
+metafile = true
+
+[[files]]
+file = "mods/swingthrough.pw.toml"
+hash = "2f05b23513f7682101e2ab609964833f1b4e8557a3c9b272f7c51d9dfa7ad254"
 metafile = true
 
 [[files]]
@@ -116,5 +186,69 @@ hash = "ccffcb7778dfaab00152e8c7714c81d91c7aa06b79c747bd5af79a7916c13a20"
 metafile = true
 
 [[files]]
-file = "resourcepacks/sereneorderVer.1.0.0.zip"
-hash = "ebc9f3b472d1d0f2cab9459e6de3cd9126c5cf182a3161982d832066346f9918"
+file = "resourcepacks/sereneorderVer.1.0.0/README.md"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "resourcepacks/sereneorderVer.1.0.0/assets/appleskin/lang/zh_cn.json"
+hash = "988a78d959945997c7a11de9bdff84eab0222c34170043ae11ac3fde3952d0d5"
+
+[[files]]
+file = "resourcepacks/sereneorderVer.1.0.0/assets/armorchroma/lang/zh_cn.json"
+hash = "6083a9dcd3353ce7172625c3a752ef43c0bd6c32fa7f6126beb991f54fee86b3"
+
+[[files]]
+file = "resourcepacks/sereneorderVer.1.0.0/assets/chat_heads/lang/zh_cn.json"
+hash = "053a890a889e37b609cbc35801738bafb2b18415e0aa220119b7a92f5d7589dd"
+
+[[files]]
+file = "resourcepacks/sereneorderVer.1.0.0/assets/chatpatches/lang/zh_cn.json"
+hash = "5f2152bbabf3d78d8d77658d91d3c2fe4366b480c15fc307a3177d8adb817b36"
+
+[[files]]
+file = "resourcepacks/sereneorderVer.1.0.0/assets/inventoryprofilesnext/lang/zh_cn.json"
+hash = "36985ed87afab0ae33f31440df3ace997a67b93ea25999a5ac46094608dccb1a"
+
+[[files]]
+file = "resourcepacks/sereneorderVer.1.0.0/assets/jade/lang/zh_cn.json"
+hash = "0d04bcea8470a6962e52836cc0c9dd61f246bce7954d19514d9083b9622d21eb"
+
+[[files]]
+file = "resourcepacks/sereneorderVer.1.0.0/assets/jadeaddons/lang/zh_cn.json"
+hash = "06acb4336c9cfbf24fe0fb0b2987cd680b63d45e21a6faa9863fe3e0e217832b"
+
+[[files]]
+file = "resourcepacks/sereneorderVer.1.0.0/assets/legendarytooltips/lang/zh_cn.json"
+hash = "c9001b3220787dd8db2cbdef0696962b17505018001b4abbf71e92c019cd34e9"
+
+[[files]]
+file = "resourcepacks/sereneorderVer.1.0.0/assets/modmenu/lang/zh_cn.json"
+hash = "f433752075c75c8bc299ca037e829352f9899404df51d04bab1d8d0ccaef7d54"
+
+[[files]]
+file = "resourcepacks/sereneorderVer.1.0.0/assets/openpartiesandclaims/lang/zh_cn.json"
+hash = "5e3a0d46980edb09eccda4a14c9c996fe3ea40755347dd720b64e9f250ec34c4"
+
+[[files]]
+file = "resourcepacks/sereneorderVer.1.0.0/assets/overflowingbars/lang/zh_cn.json"
+hash = "b0e8eb5d8f01b51f9f724946b986c9c0bf7a7f1a646251c3992e2c17a6e75ce1"
+
+[[files]]
+file = "resourcepacks/sereneorderVer.1.0.0/assets/waig/lang/zh_cn.json"
+hash = "9a02705ccc978413e2f54fc626fbee530d7486a8dd4d65e25db776b7b7920597"
+
+[[files]]
+file = "resourcepacks/sereneorderVer.1.0.0/assets/xaerominimap/lang/zh_cn.json"
+hash = "865490a845aaf0ab45705013ac8da7ac352ca09b2a536d943c594f54667619ae"
+
+[[files]]
+file = "resourcepacks/sereneorderVer.1.0.0/assets/xaeroworldmap/lang/zh_cn.json"
+hash = "db109dc415eb598be6f5fea5a0160a6bd2432fed9e5ee69027c789b8876de304"
+
+[[files]]
+file = "resourcepacks/sereneorderVer.1.0.0/pack.mcmeta"
+hash = "ef623f03fe34e5de7b32ab19007efc518c9f4d2be26fae5bbeb9f6d0efd58014"
+
+[[files]]
+file = "resourcepacks/sereneorderVer.1.0.0/pack.png"
+hash = "c00bb21a6b0a63bde0f1de3d6c4fe66345cda013271d4ff1b4deb8d288309ca1"
