@@ -198,12 +198,40 @@ file = "resourcepacks/sereneorderVer.1.0.0/assets/armorchroma/lang/zh_cn.json"
 hash = "6083a9dcd3353ce7172625c3a752ef43c0bd6c32fa7f6126beb991f54fee86b3"
 
 [[files]]
+file = "resourcepacks/sereneorderVer.1.0.0/assets/bookshelf/lang/zh_cn.json"
+hash = "d9d10139e287a65bfb63c1ce6cc1f6bb6b185faf1e20994b0ca60c3ed84d60ff"
+
+[[files]]
 file = "resourcepacks/sereneorderVer.1.0.0/assets/chat_heads/lang/zh_cn.json"
 hash = "053a890a889e37b609cbc35801738bafb2b18415e0aa220119b7a92f5d7589dd"
 
 [[files]]
 file = "resourcepacks/sereneorderVer.1.0.0/assets/chatpatches/lang/zh_cn.json"
 hash = "5f2152bbabf3d78d8d77658d91d3c2fe4366b480c15fc307a3177d8adb817b36"
+
+[[files]]
+file = "resourcepacks/sereneorderVer.1.0.0/assets/emi/lang/zh_cn.json"
+hash = "c6c97177004904e58f51ccfa2b724b0aaa1ec74fd21cea0b93b1b8c1c3f87e80"
+
+[[files]]
+file = "resourcepacks/sereneorderVer.1.0.0/assets/emi_enchanting/lang/zh_cn.json"
+hash = "c8d94e568ac91e8514d5d8f361fdee64f6981a33d1793cc9230747e2041364bb"
+
+[[files]]
+file = "resourcepacks/sereneorderVer.1.0.0/assets/emi_loot/lang/zh_cn.json"
+hash = "cf2ed351ec4cd542c4e6e41f495c6f7797dcc7f65408f6a933e323c10f502a76"
+
+[[files]]
+file = "resourcepacks/sereneorderVer.1.0.0/assets/emi_ores/lang/zh_cn.json"
+hash = "c5b578cf920b611827942798d67f876257941e813aa6b4e4764d3d7678ea5552"
+
+[[files]]
+file = "resourcepacks/sereneorderVer.1.0.0/assets/enchdesc/lang/zh_cn.json"
+hash = "9df14a1d7962076aaa04f2a4758ddeb79d7abd23943df6799219fa2b57cf6041"
+
+[[files]]
+file = "resourcepacks/sereneorderVer.1.0.0/assets/foodeffecttooltips/lang/zh_cn.json"
+hash = "eb32c164173f4d25e7f5f3f1776e3c7cf507297dcc4d19b2bec378a41ff0588b"
 
 [[files]]
 file = "resourcepacks/sereneorderVer.1.0.0/assets/inventoryprofilesnext/lang/zh_cn.json"
@@ -252,3 +280,7 @@ hash = "ef623f03fe34e5de7b32ab19007efc518c9f4d2be26fae5bbeb9f6d0efd58014"
 [[files]]
 file = "resourcepacks/sereneorderVer.1.0.0/pack.png"
 hash = "c00bb21a6b0a63bde0f1de3d6c4fe66345cda013271d4ff1b4deb8d288309ca1"
+
+[[files]]
+file = "sync.ffs_db"
+hash = "bf8d59b07ad36dd9f82e8d8a36224ee815678ed365c7e0247d9a9bc6b88db456"

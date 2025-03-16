@@ -13,6 +13,6 @@
   "emi_enchanting.description": "魔咒描述",
   "emi_enchanting.exclusions": "不共存魔咒",
   "enchantment.emi_enchanting.unknown.desc": "未知附魔",
-  "modmenu.nameTranslation.modid": "[模组中文名]modname",
-  "modmenu.descriptionTranslation.modid": "模组描述+功能表述"
+  "modmenu.nameTranslation.emi_enchanting": "[EMI附魔]EMI Enchanting",
+  "modmenu.descriptionTranslation.emi_enchanting": "插件用于 EMI，显示关于附魔的信息：如何找到它们，它们可以附魔哪些物品，以及哪些附魔会与它们互斥。"
 }

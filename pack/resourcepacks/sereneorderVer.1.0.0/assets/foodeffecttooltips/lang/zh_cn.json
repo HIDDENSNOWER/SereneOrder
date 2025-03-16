@@ -1,0 +1,11 @@
+{
+  "text.autoconfig.FoodEffectTooltips.title":"[食物效果工具提示]Food Effect Tooltips",
+  "foodeffecttooltips.food.withChance": "%s [%d%%]",
+  "foodeffecttooltips.food.whenEaten": "食用后：",
+  "text.autoconfig.FoodEffectTooltips.option.ShowSuspiciousStewTooltips": "显示可疑炖菜的效果",
+  "text.autoconfig.FoodEffectTooltips.option.UseAsWhitelistInstead": "使用列表作为白名单",
+  "text.autoconfig.FoodEffectTooltips.option.BlacklistedItemIdentifiers": "黑名单物品标识符",
+  "text.autoconfig.FoodEffectTooltips.option.BlacklistedModsIDs": "黑名单模组ID",
+  "modmenu.nameTranslation.foodeffecttooltips": "[食物效果工具提示]Food Effect Tooltips",
+  "modmenu.descriptionTranslation.foodeffecttooltips": "添加工具提示，显示食用时会给予状态效果的食物"
+}
