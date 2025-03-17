@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/anvians-lib.pw.toml"
+hash = "9f3679867b54503d895be1743eb6f8105386c0f4743b35c3d0a66aa28c75abf1"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "17fc9c6cab5ae0ea6973440f143ad6ffa4e5d373749c80077b631dbbe4df3f3b"
 metafile = true
@@ -101,6 +106,11 @@ hash = "7551e0f5aab31df987dc17a9fb31b50596be6ec6d1345bf9b9e9f1225560617c"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "5284f6d141a990f4ea021c12b851e07102f5cb22743cf7b33be6ad2eb4c8d3f5"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons-fabric.pw.toml"
 hash = "67d0b675913c729a030e9f37763320f07c263250fc64f2ee304fcabd17c79a49"
 metafile = true
@@ -158,6 +168,26 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "269bd7d48b9fd696330bcf7b611ee8c497c6ff34e7b5d607544397c5f4a81b86"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra-information.pw.toml"
+hash = "0c51043ef1e5bb6c6b874230307416da52708fd612e6fc98697d76934f9fd71a"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "1af09f16a643df0f61f2c799e981aa0b8c109999f0784584a6eff9a81f1c00c1"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "2c242048726e82d36863b81ecbaa342328bb2929dc82da2f573d83b9f0711505"
 metafile = true
 
 [[files]]
@@ -234,8 +264,16 @@ file = "resourcepacks/sereneorderVer.1.0.0/assets/foodeffecttooltips/lang/zh_cn.
 hash = "eb32c164173f4d25e7f5f3f1776e3c7cf507297dcc4d19b2bec378a41ff0588b"
 
 [[files]]
+file = "resourcepacks/sereneorderVer.1.0.0/assets/inventoryhud/lang/zh_cn.json"
+hash = "90e56df500ff0d04adf1ad60722a7d7f7a74f7de6088ee055e2002ccacb2ece3"
+
+[[files]]
 file = "resourcepacks/sereneorderVer.1.0.0/assets/inventoryprofilesnext/lang/zh_cn.json"
 hash = "36985ed87afab0ae33f31440df3ace997a67b93ea25999a5ac46094608dccb1a"
+
+[[files]]
+file = "resourcepacks/sereneorderVer.1.0.0/assets/invmove/lang/zh_cn.json"
+hash = "a522a20ce76b2b300ced3e0cf3d284f660ee013bff5d25c602e8f5528c853ea8"
 
 [[files]]
 file = "resourcepacks/sereneorderVer.1.0.0/assets/jade/lang/zh_cn.json"
@@ -262,6 +300,18 @@ file = "resourcepacks/sereneorderVer.1.0.0/assets/overflowingbars/lang/zh_cn.jso
 hash = "b0e8eb5d8f01b51f9f724946b986c9c0bf7a7f1a646251c3992e2c17a6e75ce1"
 
 [[files]]
+file = "resourcepacks/sereneorderVer.1.0.0/assets/pickupnotifier/lang/zh_cn.json"
+hash = "5018a478735937a6a0fa9e09ffe6de40ad18821266174e0a51e1d7f9a74e6288"
+
+[[files]]
+file = "resourcepacks/sereneorderVer.1.0.0/assets/prickle/lang/zh_cn.json"
+hash = "5c74d243c4e66970e0f2a31cd9da5449a24f19b05599fe6ab1fcfb2b111e4768"
+
+[[files]]
+file = "resourcepacks/sereneorderVer.1.0.0/assets/swingthrough/lang/zh_cn.json"
+hash = "368ec71e27408209d53207446e3d7c85880878a367605c872f3ffb07be489a4f"
+
+[[files]]
 file = "resourcepacks/sereneorderVer.1.0.0/assets/waig/lang/zh_cn.json"
 hash = "9a02705ccc978413e2f54fc626fbee530d7486a8dd4d65e25db776b7b7920597"
 
@@ -283,4 +333,4 @@ hash = "c00bb21a6b0a63bde0f1de3d6c4fe66345cda013271d4ff1b4deb8d288309ca1"
 
 [[files]]
 file = "sync.ffs_db"
-hash = "bf8d59b07ad36dd9f82e8d8a36224ee815678ed365c7e0247d9a9bc6b88db456"
+hash = "0a4ecfa3cce56b5649c4d78fcde457672254dcc074b33d2ed71e004c75ec8d95"
