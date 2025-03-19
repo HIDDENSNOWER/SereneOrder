@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "81f72955e64568bc01f7a22015c32706badfb52ec7f094b392b0a8722aef837e"
+metafile = true
+
+[[files]]
 file = "mods/anvians-lib.pw.toml"
 hash = "9f3679867b54503d895be1743eb6f8105386c0f4743b35c3d0a66aa28c75abf1"
 metafile = true
@@ -21,6 +26,11 @@ hash = "f0c9a87afafcb1a3a7057f6870e6ca0532d6d9bc1f7cfe660af22e697a5ba238"
 metafile = true
 
 [[files]]
+file = "mods/bridging-mod.pw.toml"
+hash = "8e4a7b379a7bf59a434ef62a8d4f2fa0e57c9606f43ca4477ecf8d770265c5b1"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "24828835695c3e91f506dab3bdd47e54cb31412187ab0670bbb09cfeb710994c"
 metafile = true
@@ -33,6 +43,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
+metafile = true
+
+[[files]]
+file = "mods/completionists-index.pw.toml"
+hash = "15ec99fec8be6616501d5459122906aa8b53e4fb94200c87d313d8b198699135"
 metafile = true
 
 [[files]]
@@ -82,12 +97,17 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "d4ebde657a2201455a13405b549eb06a272171eaf399ff1c9928a5df96600283"
+hash = "fdf65254b212f6f7ca9720e7ed140bac478efdd89f4313816557d1dc828e0852"
 metafile = true
 
 [[files]]
 file = "mods/iceberg.pw.toml"
 hash = "858f7eef766bcdc4bb91a0cb82938375a421372c7cdc198f67d1f2254b70eeb5"
+metafile = true
+
+[[files]]
+file = "mods/immersivemusicmod.pw.toml"
+hash = "46bf7a44ff98bcee7d650155018d8c69bca31fa78cf8418bfb8f91aa239bf5fb"
 metafile = true
 
 [[files]]
@@ -111,6 +131,11 @@ hash = "5284f6d141a990f4ea021c12b851e07102f5cb22743cf7b33be6ad2eb4c8d3f5"
 metafile = true
 
 [[files]]
+file = "mods/item-borders.pw.toml"
+hash = "8a8675e1edc03220d8cfd86100b6f2bc83a9a760c8f6164fcdceb223d838ea60"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons-fabric.pw.toml"
 hash = "67d0b675913c729a030e9f37763320f07c263250fc64f2ee304fcabd17c79a49"
 metafile = true
@@ -121,6 +146,11 @@ hash = "9910e35d0841d4fc95f37139379bc49238d27453a4592640896ee2faf2a66d6a"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "b51341c6f2ff3732617d7ffa3b3ed3d09c05d2d24fbc243734aefbe47f149f83"
+metafile = true
+
+[[files]]
 file = "mods/legendary-tooltips.pw.toml"
 hash = "b41a9d602a2885f672ef02b1426b4d65c17fd34229f40ab265d16e8b5ebc6894"
 metafile = true
@@ -128,6 +158,11 @@ metafile = true
 [[files]]
 file = "mods/libipn.pw.toml"
 hash = "d9c37a782ab3fccc43ed846018033e4cb3f487ec37cb5d67c012da4f61ca771f"
+metafile = true
+
+[[files]]
+file = "mods/loot-beams-up.pw.toml"
+hash = "304aa1e1a337a5e0d284399420683595b2fd887a3473a2f962bf66e66db5515a"
 metafile = true
 
 [[files]]
@@ -143,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/overflowing-bars.pw.toml"
 hash = "88c410db35e0f78c6c699dbd801215407d590b49fb3bbfd0d2094b5def538b4d"
+metafile = true
+
+[[files]]
+file = "mods/paperdoll.pw.toml"
+hash = "c88042d73f31022a0947907881ba53485d5c7a161879bc1a4f281d72954e157c"
 metafile = true
 
 [[files]]
@@ -171,6 +211,11 @@ hash = "269bd7d48b9fd696330bcf7b611ee8c497c6ff34e7b5d607544397c5f4a81b86"
 metafile = true
 
 [[files]]
+file = "mods/real-arrow-tip.pw.toml"
+hash = "94cca14c28240baae3f67dd18128e896e8566a1715dca9bcc5c12ec1c1d7e115"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
 metafile = true
@@ -191,13 +236,33 @@ hash = "2c242048726e82d36863b81ecbaa342328bb2929dc82da2f573d83b9f0711505"
 metafile = true
 
 [[files]]
+file = "mods/subtle-effects.pw.toml"
+hash = "4a32c6177b7d1d3934e09a73bc47f0669a1233b73c8691910b8839c3d523448b"
+metafile = true
+
+[[files]]
 file = "mods/swingthrough.pw.toml"
 hash = "2f05b23513f7682101e2ab609964833f1b4e8557a3c9b272f7c51d9dfa7ad254"
 metafile = true
 
 [[files]]
+file = "mods/tips.pw.toml"
+hash = "0cbbbed7bbf993ef52887473ed8fa0fef4b977d7c11779ef0bf539e5f49a3693"
+metafile = true
+
+[[files]]
+file = "mods/travelers-titles.pw.toml"
+hash = "ffbe86f7b3e1108d5abae3d1a53a7d1ea62dc5a4ec83ed440781ddec228139a3"
+metafile = true
+
+[[files]]
 file = "mods/waig.pw.toml"
 hash = "b417077bc95b1ea70db37a605584448a4bbd1a6263ce38ed1387ab7b634f09a7"
+metafile = true
+
+[[files]]
+file = "mods/xaero-zoomout.pw.toml"
+hash = "896dc18c8839f179aca6e9a7891de85898a4f5814a35249781d3efda33d29091"
 metafile = true
 
 [[files]]
@@ -216,8 +281,17 @@ hash = "ccffcb7778dfaab00152e8c7714c81d91c7aa06b79c747bd5af79a7916c13a20"
 metafile = true
 
 [[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "19bfaf808255bb6a5508cb2c861779c433a5ed58e7889755938dc12cb479e912"
+metafile = true
+
+[[files]]
 file = "resourcepacks/sereneorderVer.1.0.0/README.md"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "resourcepacks/sereneorderVer.1.0.0/assets/anvianslib/lang/zh_cn.json"
+hash = "27deb7e990997b8cef3503f5055ba1dafd3274fe15b8a47e4647bc86292eae6e"
 
 [[files]]
 file = "resourcepacks/sereneorderVer.1.0.0/assets/appleskin/lang/zh_cn.json"
@@ -276,6 +350,10 @@ file = "resourcepacks/sereneorderVer.1.0.0/assets/invmove/lang/zh_cn.json"
 hash = "a522a20ce76b2b300ced3e0cf3d284f660ee013bff5d25c602e8f5528c853ea8"
 
 [[files]]
+file = "resourcepacks/sereneorderVer.1.0.0/assets/iris/lang/zh_cn.json"
+hash = "a51b8df09e70359f18f990e99fbbfca7748e7d50fb9973dc67b0b76eb321dc80"
+
+[[files]]
 file = "resourcepacks/sereneorderVer.1.0.0/assets/jade/lang/zh_cn.json"
 hash = "0d04bcea8470a6962e52836cc0c9dd61f246bce7954d19514d9083b9622d21eb"
 
@@ -308,6 +386,22 @@ file = "resourcepacks/sereneorderVer.1.0.0/assets/prickle/lang/zh_cn.json"
 hash = "5c74d243c4e66970e0f2a31cd9da5449a24f19b05599fe6ab1fcfb2b111e4768"
 
 [[files]]
+file = "resourcepacks/sereneorderVer.1.0.0/assets/reeses-sodium-options/lang/zh_cn.json"
+hash = "3e8ba7e8823eee0d2c09fcc5c79d7ce7576b21fad4d8487725bbfba6128a3277"
+
+[[files]]
+file = "resourcepacks/sereneorderVer.1.0.0/assets/sodium-extra/lang/zh_cn.json"
+hash = "39ad241f35a03d1bee40473e9b4998562fec3f6c145bbfeb3cba7853682d4658"
+
+[[files]]
+file = "resourcepacks/sereneorderVer.1.0.0/assets/sodium/lang/zh_cn.json"
+hash = "bedc423eebf3d8c8e20dde78f0859fe11b832342c36a5c71b4452284b32f49da"
+
+[[files]]
+file = "resourcepacks/sereneorderVer.1.0.0/assets/sodiumextrainformation/lang/zh_cn.json"
+hash = "df5ab7e47b276b9ef2df0047232d049db2c5798ea3fa0b052349e4639566d149"
+
+[[files]]
 file = "resourcepacks/sereneorderVer.1.0.0/assets/swingthrough/lang/zh_cn.json"
 hash = "368ec71e27408209d53207446e3d7c85880878a367605c872f3ffb07be489a4f"
 
@@ -330,7 +424,3 @@ hash = "ef623f03fe34e5de7b32ab19007efc518c9f4d2be26fae5bbeb9f6d0efd58014"
 [[files]]
 file = "resourcepacks/sereneorderVer.1.0.0/pack.png"
 hash = "c00bb21a6b0a63bde0f1de3d6c4fe66345cda013271d4ff1b4deb8d288309ca1"
-
-[[files]]
-file = "sync.ffs_db"
-hash = "0a4ecfa3cce56b5649c4d78fcde457672254dcc074b33d2ed71e004c75ec8d95"
