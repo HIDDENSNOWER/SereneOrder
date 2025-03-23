@@ -1,0 +1,23 @@
+{
+	"timm.commands.foo": "foo命令返回了%s",
+	"timm.commands.nowPlaying.song": "正在播放：%s",
+	"timm.commands.nowPlaying.null": "没有播放任何歌曲！",
+	"timm.commands.stop": "停止播放。",
+	"timm.commands.skip.success": "跳转到%s",
+	"timm.commands.skip.badId": "执行跳过时出错：未知的音效事件“%s”",
+	"timm.config.text": "配置菜单",
+	"timm.config.close.text": "关闭",
+	"timm.config.close.tooltip": "关闭此菜单。",
+	"timm.config.songMin.text": "游戏歌曲最小延迟",
+	"timm.config.songMin.slider": "最小值：%d",
+	"timm.config.songMax.text": "游戏歌曲最大延迟",
+	"timm.config.songMax.slider": "最大值：%d",
+	"timm.config.menuMin.text": "菜单歌曲最小延迟",
+	"timm.config.menuMin.slider": "最小值：%d",
+	"timm.config.menuMax.text": "菜单歌曲最大延迟",
+	"timm.config.menuMax.slider": "最大值：%d",
+	"timm.config.debug.text": "启用调试日志",
+	"timm.": "",
+	"modmenu.nameTranslation.timm": "[沉浸式音乐]The Immersive Music Mod",
+	"modmenu.descriptionTranslation.timm": "对《我的世界》音乐的全面改造。"
+}
