@@ -306,12 +306,20 @@ file = "resourcepacks/sereneorderVer.1.0.0/assets/bookshelf/lang/zh_cn.json"
 hash = "d9d10139e287a65bfb63c1ce6cc1f6bb6b185faf1e20994b0ca60c3ed84d60ff"
 
 [[files]]
+file = "resourcepacks/sereneorderVer.1.0.0/assets/bridgingmod/lang/zh_cn.json"
+hash = "63dca1a6da6e89cbe81d45d27035bd2991d4e24d112dbb25ba6d8868225bca74"
+
+[[files]]
 file = "resourcepacks/sereneorderVer.1.0.0/assets/chat_heads/lang/zh_cn.json"
 hash = "053a890a889e37b609cbc35801738bafb2b18415e0aa220119b7a92f5d7589dd"
 
 [[files]]
 file = "resourcepacks/sereneorderVer.1.0.0/assets/chatpatches/lang/zh_cn.json"
 hash = "5f2152bbabf3d78d8d77658d91d3c2fe4366b480c15fc307a3177d8adb817b36"
+
+[[files]]
+file = "resourcepacks/sereneorderVer.1.0.0/assets/completionistsindex/lang/zh_cn.json"
+hash = "532373cfd3ba7daa25885413be28dfe6f4a3520082bdc3faff6bb78714daabe0"
 
 [[files]]
 file = "resourcepacks/sereneorderVer.1.0.0/assets/emi/lang/zh_cn.json"
@@ -354,6 +362,10 @@ file = "resourcepacks/sereneorderVer.1.0.0/assets/iris/lang/zh_cn.json"
 hash = "a51b8df09e70359f18f990e99fbbfca7748e7d50fb9973dc67b0b76eb321dc80"
 
 [[files]]
+file = "resourcepacks/sereneorderVer.1.0.0/assets/itemborders/lang/zh_cn.json"
+hash = "2654a57eb913443b820c6f61a0ce7b0f6ebe4332f3cba7e9e8f8c4f0d0678750"
+
+[[files]]
 file = "resourcepacks/sereneorderVer.1.0.0/assets/jade/lang/zh_cn.json"
 hash = "0d04bcea8470a6962e52836cc0c9dd61f246bce7954d19514d9083b9622d21eb"
 
@@ -362,8 +374,16 @@ file = "resourcepacks/sereneorderVer.1.0.0/assets/jadeaddons/lang/zh_cn.json"
 hash = "06acb4336c9cfbf24fe0fb0b2987cd680b63d45e21a6faa9863fe3e0e217832b"
 
 [[files]]
+file = "resourcepacks/sereneorderVer.1.0.0/assets/lambdynlights/lang/zh_cn.json"
+hash = "c3f6764f3fa59c3f872c16f922aa497f069abe04a2255241a81e60d6a224e959"
+
+[[files]]
 file = "resourcepacks/sereneorderVer.1.0.0/assets/legendarytooltips/lang/zh_cn.json"
 hash = "c9001b3220787dd8db2cbdef0696962b17505018001b4abbf71e92c019cd34e9"
+
+[[files]]
+file = "resourcepacks/sereneorderVer.1.0.0/assets/lootbeams/lang/zh_cn.json"
+hash = "70ac4edbc0246de06d174cba996172951d2fbc3929ab44e2a40ae4fc92e97722"
 
 [[files]]
 file = "resourcepacks/sereneorderVer.1.0.0/assets/modmenu/lang/zh_cn.json"
@@ -378,6 +398,10 @@ file = "resourcepacks/sereneorderVer.1.0.0/assets/overflowingbars/lang/zh_cn.jso
 hash = "b0e8eb5d8f01b51f9f724946b986c9c0bf7a7f1a646251c3992e2c17a6e75ce1"
 
 [[files]]
+file = "resourcepacks/sereneorderVer.1.0.0/assets/paperdoll/lang/zh_cn.json"
+hash = "dd81cda5af9c6989eb96ea5cc018ad89c50213d7d44adda0e15a40fc2e85451a"
+
+[[files]]
 file = "resourcepacks/sereneorderVer.1.0.0/assets/pickupnotifier/lang/zh_cn.json"
 hash = "5018a478735937a6a0fa9e09ffe6de40ad18821266174e0a51e1d7f9a74e6288"
 
@@ -386,8 +410,16 @@ file = "resourcepacks/sereneorderVer.1.0.0/assets/prickle/lang/zh_cn.json"
 hash = "5c74d243c4e66970e0f2a31cd9da5449a24f19b05599fe6ab1fcfb2b111e4768"
 
 [[files]]
+file = "resourcepacks/sereneorderVer.1.0.0/assets/real-arrow-tip/lang/zh_cn.json"
+hash = "9394e7509e715f1e23cc1c73109a9f5403c1f4d7f4f2e04d2e953da10eeec073"
+
+[[files]]
 file = "resourcepacks/sereneorderVer.1.0.0/assets/reeses-sodium-options/lang/zh_cn.json"
 hash = "3e8ba7e8823eee0d2c09fcc5c79d7ce7576b21fad4d8487725bbfba6128a3277"
+
+[[files]]
+file = "resourcepacks/sereneorderVer.1.0.0/assets/skinlayers3d/lang/zh_cn.json"
+hash = "d3ef4dbcb5131410110261ebdc3d800b63c3454db404cb759c33499e0e7ffcdf"
 
 [[files]]
 file = "resourcepacks/sereneorderVer.1.0.0/assets/sodium-extra/lang/zh_cn.json"
@@ -402,8 +434,24 @@ file = "resourcepacks/sereneorderVer.1.0.0/assets/sodiumextrainformation/lang/zh
 hash = "df5ab7e47b276b9ef2df0047232d049db2c5798ea3fa0b052349e4639566d149"
 
 [[files]]
+file = "resourcepacks/sereneorderVer.1.0.0/assets/subtle_effects/lang/zh_cn.json"
+hash = "8a8630f3a53885e294e454e39a6dc2bfc504f1cbddd75e1d7a78047cf0b72345"
+
+[[files]]
 file = "resourcepacks/sereneorderVer.1.0.0/assets/swingthrough/lang/zh_cn.json"
 hash = "368ec71e27408209d53207446e3d7c85880878a367605c872f3ffb07be489a4f"
+
+[[files]]
+file = "resourcepacks/sereneorderVer.1.0.0/assets/timm/lang/zh_cn.json"
+hash = "9f3166be7d95c444247ca407b1b30aa9caa6e21795bcd9e77499c9f822aff24d"
+
+[[files]]
+file = "resourcepacks/sereneorderVer.1.0.0/assets/tipsmod/lang/zh_cn.json"
+hash = "5c41899be2f5af280db92d6dd8d237ab1b244b5b986f48c97462a4673c7d2a6c"
+
+[[files]]
+file = "resourcepacks/sereneorderVer.1.0.0/assets/travelerstitles/lang/zh_cn.json"
+hash = "181c4fcbf600d9a14e9dac475c8bfdd851b0541f738fd49a5fd363daa41228e9"
 
 [[files]]
 file = "resourcepacks/sereneorderVer.1.0.0/assets/waig/lang/zh_cn.json"
@@ -416,6 +464,14 @@ hash = "865490a845aaf0ab45705013ac8da7ac352ca09b2a536d943c594f54667619ae"
 [[files]]
 file = "resourcepacks/sereneorderVer.1.0.0/assets/xaeroworldmap/lang/zh_cn.json"
 hash = "db109dc415eb598be6f5fea5a0160a6bd2432fed9e5ee69027c789b8876de304"
+
+[[files]]
+file = "resourcepacks/sereneorderVer.1.0.0/assets/xaerozoomout/lang/zh_cn.json"
+hash = "13045da10ce16a28c363d36224725b317b5f6260ac681cb3f32dd907ab726943"
+
+[[files]]
+file = "resourcepacks/sereneorderVer.1.0.0/assets/yungsapi/lang/zh_cn.json"
+hash = "901d80237ac12cec2065525cfc655d725fa2daac072af6a33b1a8dd9b63c2c6d"
 
 [[files]]
 file = "resourcepacks/sereneorderVer.1.0.0/pack.mcmeta"
